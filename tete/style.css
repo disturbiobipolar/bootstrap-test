@@ -1,0 +1,104 @@
+body {
+    background-color: black;
+    
+    
+    }
+    
+    @font-face {
+        font-family: 'MedievalSharp';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/medievalsharp/v26/EvOJzAlL3oU5AQl2mP5KdgptMqhwMg.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+    
+    
+   
+     .cinzel-mimi {
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style:normal;
+    }
+    
+    
+      .medievalsharp-regular {
+        font-family: "MedievalSharp", cursive;
+        font-weight: 500;
+        font-style: normal;
+      }
+      
+      .eagle-lake-regular {
+        font-family: "Eagle Lake", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      
+    
+    p {
+        font-family: 'Eagle Lake';
+        font-weight: bold;
+    }
+    
+    .destaque-principal {
+        font-size: 2.5rem;
+        font-weight: 300;
+        line-height: 1.2;
+        margin-bottom: 1.5rem;
+        font-family: 'MedievalSharp', cursive ;
+        background-color: aqua;
+        text-align: center;
+    }
+    .card-artigo {
+        border: none;
+        margin-bottom: 2rem;
+    }
+    .card-titulo {
+        font-size: 1.4rem;
+        margin-bottom: 0.5rem;
+    }
+    .lista-artigos {
+        font-size: 0.9rem;
+        line-height: 1.7;
+    }
+    hr {
+        margin: 2rem 0;
+        border-top: 2px solid black;
+    }
+ 
+    .bg-aiipapai {
+    background-color: rgb(223, 214, 202);
+
+    }
+
+    h1 {
+    font-family:'MedievalSharp', bold ;
+    text-align: center;
+    color:rgb(83, 52, 52);
+
+    }
+
+    h2 {
+    font-family: 'MedievalSharp', cursive;
+    text-align: center;
+    color: rgb(104, 65, 65);
+
+    }
+
+    h5 {
+
+        font-family: 'Eagle Lake';
+        color: rgb(243, 238, 232);
+
+    }
+
+    .border {
+ border-color: blue;
+ border-width: 10rem;
+ width: 70% ;
+ height: 33%;
+ margin-left: 15%;
+
+    }
