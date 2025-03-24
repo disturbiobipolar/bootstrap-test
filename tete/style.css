@@ -90,8 +90,26 @@ body {
     h5 {
 
         font-family: 'Eagle Lake';
-        color: rgb(243, 238, 232);
+        color: rgb(255, 255, 255);
 
+    }
+
+    .float-right {
+
+float: right !important;
+
+    }
+
+    .lele {
+float: right;
+    
+
+    }
+
+    .honor {
+
+        float: left;
+        position: relative;
     }
 
     .border {
